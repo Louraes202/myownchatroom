@@ -15,4 +15,4 @@ If you move the project to your web server, make sure you move "index.html" and 
 -> index.html - the main file that you can run on a local host or on a web server
 -> the two .mp4 files - the animated backgrounds of this project
 -> the "icon.png" and all the png files out of the images folder - loading icons
--> the "appmanifest.json" - the script that makes the icons load ```
+-> the "appmanifest.json" - the script that makes the icons load
