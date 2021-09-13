@@ -10,7 +10,8 @@ If you move the project to your web server, make sure you move "index.html" and 
 
 - Repo Index 
 
-``` images folder - all the project current images
+```
+-> images folder - all the project current images
 -> all the .js files - javascript files created by the Construct2 engine adding features to the HTML code
 -> index.html - the main file that you can run on a local host or on a web server
 -> the two .mp4 files - the animated backgrounds of this project
